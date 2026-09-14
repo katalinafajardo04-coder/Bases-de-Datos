@@ -3,3 +3,4 @@
 -- Fecha: 2024-06-10 
 
 -- Creación de la base de datos
+--katalina te amo demasiado 
